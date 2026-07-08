@@ -64,7 +64,7 @@ Goal:
 
 <table align="center">
 <tr><th>Degree</th><th>Institution</th><th>Score</th><th>Year</th></tr>
-<tr><td>B.Tech – Computer Science Engineering (Cyber Security)</td><td>Parul University, Vadodara</td><td>CGPA: 8.05/10.0 (through Sem 3)</td><td>Expected 2028</td></tr>
+<tr><td>B.Tech – Computer Science Engineering (Cyber Security)</td><td>Parul University, Vadodara</td><td>CGPA: 8.05/10.0 (through Sem 4)</td><td>Expected 2028</td></tr>
 <tr><td>HSC – Science (PCM)</td><td>Maharashtra State Board</td><td>76.17%</td><td>Feb 2024</td></tr>
 <tr><td>SSC</td><td>Maharashtra State Board</td><td>82.00%</td><td>Mar 2022</td></tr>
 </table>
