@@ -386,7 +386,11 @@ A Spring Boot backend for a library domain, modelled around books, authors and c
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sachin-120&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=E6EDF3&area=true&area_color=1F6FEB&hide_border=true&title_color=58A6FF" alt="Contribution activity graph" />
+  <img
+    src="./profile-3d-contrib/profile-green-animate.svg"
+    width="100%"
+    alt="3D GitHub Contribution Graph"
+  />
 </p>
 
 <p align="center">
