@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=1200&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=640&height=170&lines=%24+whoami;%3E+Sachin+Santosh+Sharma;%3E+role+%3A+Aspiring+Java+Backend+Developer;%3E+education+%3A+B.Tech+CSE%2C+Parul+University;%3E+stack+%3A+Java+%7C+Spring+Boot+%7C+JPA+%7C+SQL;%3E+status+%3A+learning+and+building" alt="Terminal introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1200&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=190&lines=%24+whoami;%3E+Sachin+Santosh+Sharma;%3E+role+%3A+Aspiring+Java+Backend+Developer;%3E+education+%3A+B.Tech+CSE%2C+Parul+University;%3E+stack+%3A+Java+%7C+Spring+Boot+%7C+JPA+%7C+SQL;%3E+status+%3A+learning+and+building" alt="Terminal introduction" />
 </p>
 
 <p align="center">
@@ -15,10 +15,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sachin-120&label=Profile+Views&color=1F6FEB&labelColor=161B22&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/sachin-120?label=Followers&style=flat-square&color=1F6FEB&labelColor=161B22&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Java_Backend-58A6FF?style=flat-square&labelColor=161B22" alt="Focus" />
-  <img src="https://img.shields.io/badge/Open_to-Collaboration-58A6FF?style=flat-square&labelColor=161B22" alt="Open to collaboration" />
+  <img src="https://komarev.com/ghpvc/?username=sachin-120&label=Profile+Views&color=1F6FEB&labelColor=161B22&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/sachin-120?label=Followers&style=for-the-badge&color=1F6FEB&labelColor=161B22&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-Java_Backend-58A6FF?style=for-the-badge&labelColor=161B22" alt="Focus" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=70&section=footer" alt="" />
@@ -36,13 +35,13 @@ I enjoy designing and building scalable backend applications and REST APIs, and 
 Cybersecurity is part of my academic background and earlier learning, and I bring that awareness into the code I write.
 
 </td>
-<td width="40%" valign="top">
+<td width="40%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/Education-B.Tech_CSE-1F6FEB?style=flat-square&labelColor=161B22" alt="Education" /><br>
-<img src="https://img.shields.io/badge/University-Parul_University-1F6FEB?style=flat-square&labelColor=161B22" alt="University" /><br>
-<img src="https://img.shields.io/badge/Expected_Graduation-2028-1F6FEB?style=flat-square&labelColor=161B22" alt="Graduation" /><br>
-<img src="https://img.shields.io/badge/Goal-Java_Backend_Developer-58A6FF?style=flat-square&labelColor=161B22" alt="Goal" /><br>
-<img src="https://img.shields.io/badge/Open_to-Java_%2F_Python_%2F_Web_Projects-58A6FF?style=flat-square&labelColor=161B22" alt="Open to projects" />
+<img src="https://img.shields.io/badge/Education-B.Tech_CSE-1F6FEB?style=for-the-badge&labelColor=161B22" alt="Education" /><br>
+<img src="https://img.shields.io/badge/University-Parul_University-1F6FEB?style=for-the-badge&labelColor=161B22" alt="University" /><br>
+<img src="https://img.shields.io/badge/Graduation-2028_(Expected)-1F6FEB?style=for-the-badge&labelColor=161B22" alt="Graduation" /><br>
+<img src="https://img.shields.io/badge/Goal-Java_Backend_Developer-58A6FF?style=for-the-badge&labelColor=161B22" alt="Goal" /><br>
+<img src="https://img.shields.io/badge/Open_to-Collaboration-58A6FF?style=for-the-badge&labelColor=161B22" alt="Open to collaboration" />
 
 </td>
 </tr>
@@ -57,22 +56,22 @@ Cybersecurity is part of my academic background and earlier learning, and I brin
 <td align="center" width="25%" valign="top">
 <img src="https://skillicons.dev/icons?i=java,spring&theme=dark" alt="Java and Spring" /><br><br>
 <b>Java and Spring Boot</b><br>
-<sub>Spring Framework, Spring Data JPA, Hibernate</sub>
+Spring Framework and Spring Data JPA
 </td>
 <td align="center" width="25%" valign="top">
-<img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="API" /><br><br>
-<b>REST API Design</b><br>
-<sub>DTOs, validation, exception handling, pagination, filtering</sub>
+<img src="https://skillicons.dev/icons?i=spring,hibernate&theme=dark" alt="Spring and Hibernate" /><br><br>
+<b>REST APIs and JPA</b><br>
+DTOs, validation, exception handling, pagination, filtering
 </td>
 <td align="center" width="25%" valign="top">
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="SQL" /><br><br>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" /><br><br>
 <b>SQL and Databases</b><br>
-<sub>Schema design, queries, data management</sub>
+Schema design, queries, data management
 </td>
 <td align="center" width="25%" valign="top">
-<img src="https://skillicons.dev/icons?i=java&theme=dark" alt="DSA" /><br><br>
+<img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" /><br><br>
 <b>OOP and DSA</b><br>
-<sub>Object-oriented design, data structures, algorithms</sub>
+Object-oriented design, data structures, algorithms
 </td>
 </tr>
 </table>
@@ -93,13 +92,13 @@ Cybersecurity is part of my academic background and earlier learning, and I brin
 <img src="https://img.shields.io/badge/Spring_Boot-1F6FEB?style=for-the-badge&logo=springboot&logoColor=white&labelColor=161B22" alt="Spring Boot" />
 <img src="https://img.shields.io/badge/Spring_Data_JPA-1F6FEB?style=for-the-badge&logo=spring&logoColor=white&labelColor=161B22" alt="Spring Data JPA" />
 <img src="https://img.shields.io/badge/Hibernate-1F6FEB?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=161B22" alt="Hibernate" />
-<img src="https://img.shields.io/badge/REST_APIs-1F6FEB?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=161B22" alt="REST APIs" />
+<img src="https://img.shields.io/badge/REST_APIs-1F6FEB?style=for-the-badge&labelColor=161B22" alt="REST APIs" />
 </td>
 </tr>
 <tr>
 <td align="center"><b>Database</b></td>
 <td>
-<img src="https://img.shields.io/badge/SQL-58A6FF?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=161B22" alt="SQL" />
+<img src="https://img.shields.io/badge/SQL-58A6FF?style=for-the-badge&labelColor=161B22" alt="SQL" />
 <img src="https://img.shields.io/badge/MySQL-58A6FF?style=for-the-badge&logo=mysql&logoColor=white&labelColor=161B22" alt="MySQL" />
 </td>
 </tr>
@@ -131,7 +130,7 @@ Cybersecurity is part of my academic background and earlier learning, and I brin
 </tr>
 </table>
 
-<p align="center"><sub>Spring Boot, Spring Data JPA and Hibernate are my current learning focus.</sub></p>
+<p align="center">Spring Boot, Spring Data JPA and Hibernate are my current learning focus.</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=70&section=footer" alt="" />
 
@@ -187,14 +186,14 @@ Cybersecurity is part of my academic background and earlier learning, and I brin
 <h3 align="center">Task Management REST API</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-In_Progress-58A6FF?style=flat-square&labelColor=161B22" alt="Status: In Progress" />
+  <img src="https://img.shields.io/badge/Status-In_Progress-58A6FF?style=for-the-badge&labelColor=161B22" alt="Status: In Progress" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-1F6FEB?style=flat-square&logo=openjdk&logoColor=white&labelColor=161B22" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-1F6FEB?style=flat-square&logo=springboot&logoColor=white&labelColor=161B22" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring_Data_JPA-1F6FEB?style=flat-square&logo=spring&logoColor=white&labelColor=161B22" alt="Spring Data JPA" />
-  <img src="https://img.shields.io/badge/REST_API-1F6FEB?style=flat-square&labelColor=161B22" alt="REST API" />
+  <img src="https://img.shields.io/badge/Java-1F6FEB?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=161B22" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-1F6FEB?style=for-the-badge&logo=springboot&logoColor=white&labelColor=161B22" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-1F6FEB?style=for-the-badge&logo=spring&logoColor=white&labelColor=161B22" alt="Spring Data JPA" />
+  <img src="https://img.shields.io/badge/REST_API-1F6FEB?style=for-the-badge&labelColor=161B22" alt="REST API" />
 </p>
 
 A Spring Boot REST API for managing tasks, built to practise a clean layered backend structure.
@@ -220,13 +219,13 @@ A Spring Boot REST API for managing tasks, built to practise a clean layered bac
 <h3 align="center">Library Management System</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-In_Progress-58A6FF?style=flat-square&labelColor=161B22" alt="Status: In Progress" />
+  <img src="https://img.shields.io/badge/Status-In_Progress-58A6FF?style=for-the-badge&labelColor=161B22" alt="Status: In Progress" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-1F6FEB?style=flat-square&logo=openjdk&logoColor=white&labelColor=161B22" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-1F6FEB?style=flat-square&logo=springboot&logoColor=white&labelColor=161B22" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring_Data_JPA-1F6FEB?style=flat-square&logo=spring&logoColor=white&labelColor=161B22" alt="Spring Data JPA" />
+  <img src="https://img.shields.io/badge/Java-1F6FEB?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=161B22" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-1F6FEB?style=for-the-badge&logo=springboot&logoColor=white&labelColor=161B22" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-1F6FEB?style=for-the-badge&logo=spring&logoColor=white&labelColor=161B22" alt="Spring Data JPA" />
 </p>
 
 A Spring Boot backend for a library domain, modelled around books, authors and categories.
@@ -249,7 +248,7 @@ A Spring Boot backend for a library domain, modelled around books, authors and c
 </tr>
 </table>
 
-<p align="center"><sub>Both projects are under active development. Features are listed only once they are implemented.</sub></p>
+<p align="center">Both projects are under active development. Features are listed only once they are implemented.</p>
 
 <h3 align="center">Other Projects</h3>
 
@@ -258,21 +257,21 @@ A Spring Boot backend for a library domain, modelled around books, authors and c
 <td width="50%" valign="top">
 
 **Async Weather Dashboard**<br>
-<img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=white&labelColor=161B22" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-161B22?style=flat-square&logo=html5&logoColor=white&labelColor=161B22" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-161B22?style=flat-square&logo=css3&logoColor=white&labelColor=161B22" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-1F6FEB?style=for-the-badge&logo=javascript&logoColor=white&labelColor=161B22" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-1F6FEB?style=for-the-badge&logo=html5&logoColor=white&labelColor=161B22" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1F6FEB?style=for-the-badge&logo=css3&logoColor=white&labelColor=161B22" alt="CSS3" />
 <br>
-<sub>Consumes a third-party REST API using Fetch and Async/Await, with structured error handling and a responsive layout.</sub>
+Consumes a third-party REST API using Fetch and Async/Await, with structured error handling and a responsive layout.
 
 </td>
 <td width="50%" valign="top">
 
 **Task Manager Application**<br>
-<img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=white&labelColor=161B22" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-161B22?style=flat-square&logo=html5&logoColor=white&labelColor=161B22" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-161B22?style=flat-square&logo=css3&logoColor=white&labelColor=161B22" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-1F6FEB?style=for-the-badge&logo=javascript&logoColor=white&labelColor=161B22" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-1F6FEB?style=for-the-badge&logo=html5&logoColor=white&labelColor=161B22" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1F6FEB?style=for-the-badge&logo=css3&logoColor=white&labelColor=161B22" alt="CSS3" />
 <br>
-<sub>Browser-based task manager with full CRUD operations, LocalStorage persistence and dynamic DOM updates.</sub>
+Browser-based task manager with full CRUD operations, LocalStorage persistence and dynamic DOM updates.
 
 </td>
 </tr>
@@ -370,34 +369,39 @@ A Spring Boot backend for a library domain, modelled around books, authors and c
 
 <h2 align="center">GitHub Statistics</h2>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Live_Data-GitHub_API-1F6FEB?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="Live data from GitHub" />
+  <img src="https://img.shields.io/badge/Updated-Automatically-58A6FF?style=for-the-badge&labelColor=161B22" alt="Updated automatically" />
+</p>
+
 <table align="center">
 <tr>
-<td align="center" width="50%">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sachin-120&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=E6EDF3" alt="GitHub stats" />
+<td align="center" width="50%" valign="middle">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=sachin-120&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=E6EDF3&rank_icon=github&card_width=400&line_height=30&include_all_commits=true" alt="GitHub stats" />
 </td>
-<td align="center" width="50%">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-120&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3" alt="Top languages" />
+<td align="center" width="50%" valign="middle">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-120&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3&card_width=400&langs_count=6&hide=typescript" alt="Top languages" />
+<br>
+<img src="https://img.shields.io/badge/Java-1F6FEB?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=161B22" alt="Java" />
+<img src="https://img.shields.io/badge/Spring_Boot-1F6FEB?style=for-the-badge&logo=springboot&logoColor=white&labelColor=161B22" alt="Spring Boot" />
+<br>
+<img src="https://img.shields.io/badge/Spring_Data_JPA-58A6FF?style=for-the-badge&logo=spring&logoColor=white&labelColor=161B22" alt="Spring Data JPA" />
+<img src="https://img.shields.io/badge/Hibernate-58A6FF?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=161B22" alt="Hibernate" />
+<img src="https://img.shields.io/badge/MySQL-58A6FF?style=for-the-badge&logo=mysql&logoColor=white&labelColor=161B22" alt="MySQL" />
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sachin-120&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="Contribution streak" />
+  <img width="85%" src="https://streak-stats.demolab.com?user=sachin-120&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E&stroke=30363D" alt="Contribution streak" />
 </p>
 
 <p align="center">
-  <img
-    src="./profile-3d-contrib/profile-green-animate.svg"
-    width="100%"
-    alt="3D GitHub Contribution Graph"
-  />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sachin-120&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=E6EDF3&area=true&area_color=1F6FEB&hide_border=true&title_color=58A6FF&radius=8&custom_title=Contribution%20Activity%20Graph" alt="Contribution activity graph" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sachin-120/sachin-120/output/github-snake-dark.svg" />
-    <img alt="Contribution snake" width="100%" src="https://raw.githubusercontent.com/sachin-120/sachin-120/output/github-snake.svg" />
-  </picture>
+  <img width="90%" src="https://ghchart.rshah.org/1F6FEB/sachin-120" alt="Contribution heatmap" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=70&section=footer" alt="" />
@@ -446,8 +450,8 @@ Cybersecurity is part of my academic background and earlier learning. I've worke
 <td width="40%" valign="top">
 
 **Caesar Cipher Encryption Tool**<br>
-<img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=white&labelColor=161B22" alt="Python" /><br>
-<sub>CLI encryption and decryption with configurable shift values, built during my Prodigy InfoTech internship.</sub>
+<img src="https://img.shields.io/badge/Python-1F6FEB?style=for-the-badge&logo=python&logoColor=white&labelColor=161B22" alt="Python" /><br>
+CLI encryption and decryption with configurable shift values, built during my Prodigy InfoTech internship.
 
 </td>
 </tr>
@@ -470,7 +474,7 @@ Cybersecurity is part of my academic background and earlier learning. I've worke
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=560&lines=Always+learning.+Always+building." alt="Closing line" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=600&lines=Always+learning.+Always+building." alt="Closing line" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=160&section=footer&animation=fadeIn" alt="Footer" />
