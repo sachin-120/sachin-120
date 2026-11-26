@@ -285,11 +285,6 @@ Computer Science Engineering student at **Parul University, Vadodara** with a st
       </a>
     </td>
     <td>
-      <a href="https://www.geeksforgeeks.org/profile/ssachiqxac">
-        <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-      </a>
-    </td>
-    <td>
       <a href="mailto:sharmasachin0180@gmail.com">
         <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
       </a>
