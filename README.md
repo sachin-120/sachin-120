@@ -268,39 +268,47 @@ Computer Science Engineering student at **Parul University, Vadodara** with a st
 ## Connect With Me
 
 <div align="center">
- 
-<h2 align="center">Let's Connect</h2>
+---
 
+<h2 align="center">Connect With Me</h2>
 
-<h2 align="center">Let's Connect</h2>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/sachin-santosh-sharma-b93345404/">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/sachin-120">
+        <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://leetcode.com/u/sachin00012/">
+        <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="YOUR_GFG_PROFILE_URL">
+        <img src="https://img.shields.io/badge/GeeksForGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+      </a>
+    </td>
+    <td colspan="2">
+      <a href="mailto:YOUR_EMAIL">
+        <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sachin-santosh-sharma-b93345404/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/sachin-120">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/sachin00012/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
-  </a>
-
-  <br><br>
-
-  <a href="YOUR_GFG_PROFILE_URL">
-    <img src="https://img.shields.io/badge/GeeksForGeeks-Profile-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-
-  <br><br>
-
-  <img src="https://komarev.com/ghpvc/?username=sachin-120&label=Profile%20Views&color=6C63FF&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=sachin-120&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
 </p>
+
+---
 
 </div>
 
