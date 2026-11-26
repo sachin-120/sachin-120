@@ -294,11 +294,6 @@ Computer Science Engineering student at **Parul University, Vadodara** with a st
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sachin-120&label=Profile%20Views&color=6C63FF&style=flat-square" />
-</p>
-
 </div>
 
 <br/>
