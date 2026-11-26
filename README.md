@@ -268,11 +268,37 @@ Computer Science Engineering student at **Parul University, Vadodara** with a st
 ## Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sachin-santosh-sharma-b93345404"><img src="https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/sachin-120"><img src="https://img.shields.io/badge/GitHub-Follow-06b6d4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://leetcode.com/u/sachin00012/"><img src="https://img.shields.io/badge/LeetCode-Profile-1a1b26?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
-  <a href="https://www.geeksforgeeks.org/profile/ssachiqxac"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-1a1b26?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" alt="GeeksforGeeks" /></a>
-  <a href="mailto:sharmasachin0180@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e" alt="Email" /></a>
+ 
+<h2 align="center">Let's Connect</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sachin-santosh-sharma-b93345404/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+  &nbsp;
+  <a href="https://github.com/sachin-120">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/sachin00012/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="YOUR_GFG_PROFILE_URL">
+    <img src="https://img.shields.io/badge/GeeksForGeeks-Profile-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sachin-120&label=Profile%20Views&color=6C63FF&style=flat-square" />
+</p>
+
 </div>
 
 <br/>
