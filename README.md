@@ -265,9 +265,7 @@ Computer Science Engineering student at **Parul University, Vadodara** with a st
 
 ---
 
-## Connect With Me
 
-<div align="center">
 ---
 
 <h2 align="center">Connect With Me</h2>
@@ -289,14 +287,7 @@ Computer Science Engineering student at **Parul University, Vadodara** with a st
         <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
       </a>
     </td>
-  </tr>
-  <tr>
     <td>
-      <a href="YOUR_GFG_PROFILE_URL">
-        <img src="https://img.shields.io/badge/GeeksForGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-      </a>
-    </td>
-    <td colspan="2">
       <a href="mailto:YOUR_EMAIL">
         <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
       </a>
@@ -305,17 +296,10 @@ Computer Science Engineering student at **Parul University, Vadodara** with a st
 </table>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sachin-120&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=sachin-120&label=Profile%20Views&color=6C63FF&style=flat-square"/>
 </p>
 
 ---
 
-</div>
-
-<br/>
-
-<!-- <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sachin-120&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
-</div> -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:7c3aed,100:1a1b26&height=120&section=footer" alt="" width="100%" />
