@@ -1,500 +1,284 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:1F6FEB,100:0D1117&height=260&section=header&text=Sachin%20Santosh%20Sharma&fontColor=E6EDF3&fontSize=48&fontAlignY=38&desc=Aspiring%20Java%20Backend%20Developer&descAlignY=58&descSize=20&descColor=58A6FF&animation=twinkling" alt="Sachin Santosh Sharma - Aspiring Java Backend Developer" />
+<!-- ============================================================
+  REMAINING PLACEHOLDER:
+    REPLACE_WITH_REPO_NAME (x4) -> the real repository name for each project
+  Default branch is assumed to be "main". Change "/main/" in the 3D graph URL if yours differs.
+============================================================ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+secure+and+scalable+backend+applications;Java+%7C+Spring+Boot+%7C+Spring+Security+%7C+JWT;Designing+clean+REST+APIs+with+DTOs+%26+validation;450%2B+DSA+problems+solved+in+Java;CSE+Student+at+Parul+University" alt="Typing animation" />
-</p>
+<!-- ======================= HERO ======================= -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1200&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=190&lines=%24+whoami;%3E+Sachin+Santosh+Sharma;%3E+role+%3A+Aspiring+Java+Backend+Developer;%3E+education+%3A+B.Tech+CSE%2C+Parul+University;%3E+stack+%3A+Java+%7C+Spring+Boot+%7C+JPA+%7C+SQL;%3E+status+%3A+learning+and+building" alt="Terminal introduction" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7c3aed,100:06b6d4&height=220&section=header&text=Sachin%20Santosh%20Sharma&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20%7C%20Spring%20Boot&descSize=18&descAlignY=60" alt="Sachin Santosh Sharma - Java Backend | Spring Boot" width="100%" />
 
-<p align="center">
-  <a href="mailto:sharmasachin0180@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22" alt="Email" /></a>
-  <a href="https://linkedin.com/in/sachin-santosh-sharma-b93345404"><img src="https://img.shields.io/badge/LinkedIn-Connect-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22" alt="LinkedIn" /></a>
-  <a href="https://github.com/sachin-120"><img src="https://img.shields.io/badge/GitHub-sachin--120-1F6FEB?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="GitHub" /></a>
-</p>
+<a href="https://github.com/sachin-120">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=640&height=50&lines=Java+Backend+Developer;Spring+Boot+Developer;REST+API+Developer;Problem+Solver" alt="Java Backend Developer | Spring Boot Developer | REST API Developer | Problem Solver" />
+</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sachin-120&label=Profile+Views&color=1F6FEB&labelColor=161B22&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/sachin-120?label=Followers&style=for-the-badge&color=1F6FEB&labelColor=161B22&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Java_Backend-58A6FF?style=for-the-badge&labelColor=161B22" alt="Focus" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub Contribution Graph" />
-</p>
+<a href="https://www.linkedin.com/in/sachin-santosh-sharma-b93345404"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7dcfff" alt="LinkedIn" /></a>
+<a href="https://github.com/sachin-120"><img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=bb9af7" alt="GitHub" /></a>
+<a href="https://leetcode.com/u/sachin00012/"><img src="https://img.shields.io/badge/LeetCode-1a1b26?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
+<a href="https://www.geeksforgeeks.org/profile/ssachiqxac"><img src="https://img.shields.io/badge/GeeksforGeeks-1a1b26?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" alt="GeeksforGeeks" /></a>
+<a href="mailto:sharmasachin0180@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e" alt="Email" /></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=70&section=footer" alt="" />
+</div>
 
-<h2 align="center">About Me</h2>
+<br/>
 
-<table align="center">
-<tr>
-<td width="60%" valign="top">
+<!--
+  OPTIONAL animated GIF (self-hosted so it can never break):
+  1. Put a GIF at assets/coding.gif in this repo
+  2. Uncomment the block below
+<div align="center">
+  <img src="./assets/coding.gif" alt="Coding animation" width="320" />
+</div>
+-->
 
-I'm a Computer Science Engineering student at Parul University and an aspiring Java Backend Developer.
+---
 
-I build backend systems and REST APIs with Spring Boot, Spring Data JPA, Hibernate and MySQL, including JWT authentication, role-based access control and transactional workflows. I focus on clean, maintainable and well-structured code.
+## About Me
 
-Cybersecurity is part of my academic background, and I bring that awareness into the code I write.
+Computer Science Engineering student at **Parul University, Vadodara** with a strong interest in **Java backend development**. I work with Java, Spring Boot and REST API design, and I have practical exposure to databases and backend engineering through internships and hands-on projects.
 
-</td>
-<td width="40%" valign="top" align="center">
+**Education**
 
-<img src="https://img.shields.io/badge/Education-B.Tech_CSE-1F6FEB?style=for-the-badge&labelColor=161B22" alt="Education" />
-<img src="https://img.shields.io/badge/University-Parul_University-1F6FEB?style=for-the-badge&labelColor=161B22" alt="University" />
-<img src="https://img.shields.io/badge/Graduation-2028_(Expected)-1F6FEB?style=for-the-badge&labelColor=161B22" alt="Graduation" />
-<img src="https://img.shields.io/badge/Goal-Java_Backend_Developer-58A6FF?style=for-the-badge&labelColor=161B22" alt="Goal" />
-<img src="https://img.shields.io/badge/Open_to-Internships-58A6FF?style=for-the-badge&labelColor=161B22" alt="Open to internships" />
+| Qualification | Institution | Period | Score |
+| :-- | :-- | :-- | :-- |
+| B.Tech, Computer Science Engineering (Cyber Security) | Parul University, Vadodara | Aug 2024 – May 2028 | CGPA 8.07 / 10.0 |
+| HSC (Science, PCM) | Maharashtra State Board | Feb 2024 | 76.17% |
+| SSC | Maharashtra State Board | Mar 2022 | 82.0% |
 
-</td>
-</tr>
-</table>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=70&section=footer" alt="" />
+## 3D Contribution Graph
 
-<h2 align="center">Current Focus</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sachin-120/sachin-120/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution graph (appears after the Profile 3D Contrib workflow has run)" width="100%" />
+</div>
 
-<table align="center">
-<tr>
-<td align="center" width="25%" valign="top">
-<img src="https://skillicons.dev/icons?i=java,spring&theme=dark" alt="Java and Spring" /><br><br>
-<b>Java and Spring Boot</b><br>
-Spring Framework, Spring Data JPA, Spring Security
-</td>
-<td align="center" width="25%" valign="top">
-<img src="https://skillicons.dev/icons?i=spring,hibernate&theme=dark" alt="Spring and Hibernate" /><br><br>
-<b>REST APIs, JPA and JWT</b><br>
-DTOs, validation, exception handling, role-based access
-</td>
-<td align="center" width="25%" valign="top">
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" /><br><br>
-<b>SQL and Databases</b><br>
-Schema design, relationships, queries, data management
-</td>
-<td align="center" width="25%" valign="top">
-<img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" /><br><br>
-<b>OOP and DSA</b><br>
-Object-oriented design, data structures, algorithms
-</td>
-</tr>
-</table>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=70&section=footer" alt="" />
-
-<h2 align="center">Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,sqlite,python,js,html,css,git,github,postman,idea,vscode,linux&theme=dark" alt="Technology icons" />
-</p>
+## Technical Skills
 
 <table align="center">
-<tr>
-<td align="center"><b>Backend</b></td>
-<td>
-<img src="https://img.shields.io/badge/Java-1F6FEB?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=161B22" alt="Java" />
-<img src="https://img.shields.io/badge/Spring_Boot-1F6FEB?style=for-the-badge&logo=springboot&logoColor=white&labelColor=161B22" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/Spring_Data_JPA-1F6FEB?style=for-the-badge&logo=spring&logoColor=white&labelColor=161B22" alt="Spring Data JPA" />
-<img src="https://img.shields.io/badge/Spring_Security-1F6FEB?style=for-the-badge&logo=springsecurity&logoColor=white&labelColor=161B22" alt="Spring Security" />
-<img src="https://img.shields.io/badge/Hibernate-1F6FEB?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=161B22" alt="Hibernate" />
-<img src="https://img.shields.io/badge/JWT-1F6FEB?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=161B22" alt="JWT" />
-<img src="https://img.shields.io/badge/REST_APIs-1F6FEB?style=for-the-badge&labelColor=161B22" alt="REST APIs" />
-</td>
-</tr>
-<tr>
-<td align="center"><b>Database</b></td>
-<td>
-<img src="https://img.shields.io/badge/SQL-58A6FF?style=for-the-badge&labelColor=161B22" alt="SQL" />
-<img src="https://img.shields.io/badge/MySQL-58A6FF?style=for-the-badge&logo=mysql&logoColor=white&labelColor=161B22" alt="MySQL" />
-<img src="https://img.shields.io/badge/SQLite-58A6FF?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=161B22" alt="SQLite" />
-</td>
-</tr>
-<tr>
-<td align="center"><b>Languages</b></td>
-<td>
-<img src="https://img.shields.io/badge/Java-1F6FEB?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=161B22" alt="Java" />
-<img src="https://img.shields.io/badge/Python-1F6FEB?style=for-the-badge&logo=python&logoColor=white&labelColor=161B22" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-1F6FEB?style=for-the-badge&logo=javascript&logoColor=white&labelColor=161B22" alt="JavaScript" />
-</td>
-</tr>
-<tr>
-<td align="center"><b>Frontend</b></td>
-<td>
-<img src="https://img.shields.io/badge/HTML5-58A6FF?style=for-the-badge&logo=html5&logoColor=white&labelColor=161B22" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-58A6FF?style=for-the-badge&logo=css3&logoColor=white&labelColor=161B22" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-58A6FF?style=for-the-badge&logo=javascript&logoColor=white&labelColor=161B22" alt="JavaScript" />
-</td>
-</tr>
-<tr>
-<td align="center"><b>Tools</b></td>
-<td>
-<img src="https://img.shields.io/badge/Git-1F6FEB?style=for-the-badge&logo=git&logoColor=white&labelColor=161B22" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-1F6FEB?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="GitHub" />
-<img src="https://img.shields.io/badge/Postman-1F6FEB?style=for-the-badge&logo=postman&logoColor=white&labelColor=161B22" alt="Postman" />
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-1F6FEB?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=161B22" alt="IntelliJ IDEA" />
-<img src="https://img.shields.io/badge/VS_Code-1F6FEB?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=161B22" alt="VS Code" />
-<img src="https://img.shields.io/badge/Linux-1F6FEB?style=for-the-badge&logo=linux&logoColor=white&labelColor=161B22" alt="Linux" />
-</td>
-</tr>
+  <tr>
+    <td><b>Programming Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,python,js,mysql&theme=dark" alt="Java, Python, JavaScript, SQL" /><br/>
+      <sub>Java · Python · JavaScript · SQL</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend Development</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=spring,hibernate,maven&theme=dark" alt="Spring, Hibernate, Maven" /><br/>
+      <img src="https://img.shields.io/badge/Spring_Boot-1a1b26?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/Spring_Data_JPA-1a1b26?style=flat-square&logo=spring&logoColor=6DB33F" alt="Spring Data JPA" />
+      <img src="https://img.shields.io/badge/Spring_Security-1a1b26?style=flat-square&logo=springsecurity&logoColor=6DB33F" alt="Spring Security" />
+      <img src="https://img.shields.io/badge/JWT-1a1b26?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+      <img src="https://img.shields.io/badge/REST_APIs-1a1b26?style=flat-square&logoColor=white&logo=postman" alt="REST APIs" /><br/>
+      <sub>DTOs · CRUD Operations · Exception Handling · Validation · Entity Mapping · Controller-Service-Repository Architecture</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" alt="MySQL, SQLite" /><br/>
+      <sub>MySQL · SQLite · SQL Queries · Database Relationships</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend Development</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML5, CSS3, JavaScript" /><br/>
+      <sub>HTML5 · CSS3 · JavaScript · DOM Manipulation · Fetch API · Async/Await · Responsive Web Design</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Development Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode,linux&theme=dark" alt="Git, GitHub, Postman, IntelliJ IDEA, VS Code, Linux" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Core Computer Science</b></td>
+    <td>
+      <sub>Object-Oriented Programming · Java Collections Framework · Data Structures and Algorithms · Database Design · MVC Architecture</sub>
+    </td>
+  </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=70&section=footer" alt="" />
+---
 
-<h2 align="center">Backend Development Skills</h2>
+## Featured Projects
 
 <table align="center">
-<tr>
-<th align="center">API Design</th>
-<th align="center">Data Layer</th>
-<th align="center">Security and Reliability</th>
-<th align="center">Fundamentals</th>
-</tr>
-<tr>
-<td valign="top">
-&bull; RESTful endpoints<br>
-&bull; Request / response DTOs<br>
-&bull; Input validation<br>
-&bull; Controller-Service-Repository
-</td>
-<td valign="top">
-&bull; Entity mapping<br>
-&bull; Spring Data JPA repositories<br>
-&bull; SQL queries<br>
-&bull; Database relationships
-</td>
-<td valign="top">
-&bull; JWT authentication<br>
-&bull; Role-based authorization<br>
-&bull; Exception handling<br>
-&bull; Audit logging
-</td>
-<td valign="top">
-&bull; OOP principles<br>
-&bull; Collections Framework<br>
-&bull; Data structures<br>
-&bull; Algorithms
-</td>
-</tr>
+  <tr>
+    <!-- Project 1 -->
+    <td width="50%" valign="top">
+      <h3>ProcureFlow</h3>
+      <sub><b>Enterprise Procurement &amp; Purchase Management System</b></sub>
+      <ul>
+        <li>Purchase request and approval management</li>
+        <li>Vendor and purchase order management</li>
+        <li>Goods receipt and invoice management</li>
+        <li>Three-way invoice matching</li>
+        <li>Transactional workflows and audit logging</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Java-1a1b26?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/Spring_Boot-1a1b26?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/Spring_Data_JPA-1a1b26?style=flat-square&logo=spring&logoColor=6DB33F" alt="Spring Data JPA" />
+      <img src="https://img.shields.io/badge/Hibernate-1a1b26?style=flat-square&logo=hibernate&logoColor=BCAE79" alt="Hibernate" />
+      <img src="https://img.shields.io/badge/MySQL-1a1b26?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Spring_Security-1a1b26?style=flat-square&logo=springsecurity&logoColor=6DB33F" alt="Spring Security" />
+      <img src="https://img.shields.io/badge/JWT-1a1b26?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+      <img src="https://img.shields.io/badge/Maven-1a1b26?style=flat-square&logo=apachemaven&logoColor=C71A36" alt="Maven" />
+      <br/><br/>
+      <a href="https://github.com/sachin-120/REPLACE_WITH_REPO_NAME"><img src="https://img.shields.io/badge/View_Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="View ProcureFlow repository" /></a>
+    </td>
+    <!-- Project 2 -->
+    <td width="50%" valign="top">
+      <h3>TenantSphere</h3>
+      <sub><b>Multi-Tenant SaaS Subscription &amp; Usage Management Platform</b></sub>
+      <ul>
+        <li>Multi-tenant organization management</li>
+        <li>Tenant-level data isolation</li>
+        <li>Subscription management</li>
+        <li>JWT authentication and role-based authorization</li>
+        <li>Subscription upgrades, feature limits and usage tracking</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Java-1a1b26?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/Spring_Boot-1a1b26?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/Spring_Data_JPA-1a1b26?style=flat-square&logo=spring&logoColor=6DB33F" alt="Spring Data JPA" />
+      <img src="https://img.shields.io/badge/Hibernate-1a1b26?style=flat-square&logo=hibernate&logoColor=BCAE79" alt="Hibernate" />
+      <img src="https://img.shields.io/badge/MySQL-1a1b26?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Spring_Security-1a1b26?style=flat-square&logo=springsecurity&logoColor=6DB33F" alt="Spring Security" />
+      <img src="https://img.shields.io/badge/JWT-1a1b26?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+      <img src="https://img.shields.io/badge/Maven-1a1b26?style=flat-square&logo=apachemaven&logoColor=C71A36" alt="Maven" />
+      <br/><br/>
+      <a href="https://github.com/sachin-120/REPLACE_WITH_REPO_NAME"><img src="https://img.shields.io/badge/View_Repository-06b6d4?style=for-the-badge&logo=github&logoColor=white" alt="View TenantSphere repository" /></a>
+    </td>
+  </tr>
+  <tr>
+    <!-- Project 3 -->
+    <td width="50%" valign="top">
+      <h3>Library Management System</h3>
+      <sub><b>Spring Boot backend for library operations</b></sub>
+      <ul>
+        <li>Manage books, authors and categories</li>
+        <li>CRUD operations</li>
+        <li>DTOs and entity mapping</li>
+        <li>Service and repository layers</li>
+        <li>Database relationship handling</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Java-1a1b26?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/Spring_Boot-1a1b26?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/Spring_Data_JPA-1a1b26?style=flat-square&logo=spring&logoColor=6DB33F" alt="Spring Data JPA" />
+      <img src="https://img.shields.io/badge/Hibernate-1a1b26?style=flat-square&logo=hibernate&logoColor=BCAE79" alt="Hibernate" />
+      <img src="https://img.shields.io/badge/MySQL-1a1b26?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
+      <br/><br/>
+      <a href="https://github.com/sachin-120/REPLACE_WITH_REPO_NAME"><img src="https://img.shields.io/badge/View_Repository-06b6d4?style=for-the-badge&logo=github&logoColor=white" alt="View Library Management System repository" /></a>
+    </td>
+    <!-- Project 4 -->
+    <td width="50%" valign="top">
+      <h3>Task Management API</h3>
+      <sub><b>REST API for task tracking</b></sub>
+      <ul>
+        <li>Create and manage tasks</li>
+        <li>Status and priority management using enums</li>
+        <li>DTOs and custom exception handling</li>
+        <li>Pagination and sorting</li>
+        <li>Controller-Service-Repository architecture</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Java-1a1b26?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/Spring_Boot-1a1b26?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/Spring_Data_JPA-1a1b26?style=flat-square&logo=spring&logoColor=6DB33F" alt="Spring Data JPA" />
+      <img src="https://img.shields.io/badge/Hibernate-1a1b26?style=flat-square&logo=hibernate&logoColor=BCAE79" alt="Hibernate" />
+      <img src="https://img.shields.io/badge/MySQL-1a1b26?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
+      <br/><br/>
+      <a href="https://github.com/sachin-120/REPLACE_WITH_REPO_NAME"><img src="https://img.shields.io/badge/View_Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="View Task Management API repository" /></a>
+    </td>
+  </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=70&section=footer" alt="" />
+---
 
-<h2 align="center">Featured Projects</h2>
+## GitHub Statistics
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Primary_Focus-Java_Backend_Development-1F6FEB?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=161B22" alt="Primary focus: Java backend development" />
-</p>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sachin-120&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-120&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</div>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=sachin-120&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>
 
-<h3 align="center">ProcureFlow</h3>
-<p align="center"><i>Enterprise Procurement &amp; Purchase Management System</i></p>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-1F6FEB?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=161B22" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-1F6FEB?style=for-the-badge&logo=springboot&logoColor=white&labelColor=161B22" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring_Security-1F6FEB?style=for-the-badge&logo=springsecurity&logoColor=white&labelColor=161B22" alt="Spring Security" />
-  <img src="https://img.shields.io/badge/MySQL-1F6FEB?style=for-the-badge&logo=mysql&logoColor=white&labelColor=161B22" alt="MySQL" />
-  <img src="https://img.shields.io/badge/JWT-1F6FEB?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=161B22" alt="JWT" />
-</p>
+## Contribution Snake
 
-<ul>
-  <li>REST APIs for purchase requests, approvals, vendors, purchase orders, goods receipts and invoices</li>
-  <li>Three-way invoice matching</li>
-  <li>Role-based access, audit logging and transactional workflows</li>
-</ul>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sachin-120/sachin-120/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sachin-120/sachin-120/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake (appears after the Snake workflow has run)" src="https://raw.githubusercontent.com/sachin-120/sachin-120/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
 
-<p align="center">
-  <!-- Replace with the exact repository URL if the name differs -->
-  <a href="https://github.com/sachin-120/ProcureFlow"><img src="https://img.shields.io/badge/View_Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="Repository" /></a>
-</p>
+---
 
-</td>
-<td width="50%" valign="top">
+## Problem Solving and Coding Profiles
 
-<h3 align="center">TenantSphere</h3>
-<p align="center"><i>Multi-Tenant SaaS Subscription &amp; Usage Management Platform</i></p>
+<div align="center">
+  <a href="https://leetcode.com/u/sachin00012/"><img src="https://img.shields.io/badge/LeetCode-250%2B_Problems_Solved-1a1b26?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode - 250+ problems solved" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/ssachiqxac"><img src="https://img.shields.io/badge/GeeksforGeeks-200%2B_Problems_Solved-1a1b26?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" alt="GeeksforGeeks - 200+ problems solved" /></a>
+  <img src="https://img.shields.io/badge/Primary_Language-Java-1a1b26?style=for-the-badge&logo=openjdk&logoColor=white" alt="Primary language: Java" />
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-1F6FEB?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=161B22" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-1F6FEB?style=for-the-badge&logo=springboot&logoColor=white&labelColor=161B22" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring_Security-1F6FEB?style=for-the-badge&logo=springsecurity&logoColor=white&labelColor=161B22" alt="Spring Security" />
-  <img src="https://img.shields.io/badge/MySQL-1F6FEB?style=for-the-badge&logo=mysql&logoColor=white&labelColor=161B22" alt="MySQL" />
-  <img src="https://img.shields.io/badge/JWT-1F6FEB?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=161B22" alt="JWT" />
-</p>
+<br/>
 
-<ul>
-  <li>Multi-tenant backend with organization management and tenant-level data isolation</li>
-  <li>JWT authentication and role-based authorization</li>
-  <li>Subscription upgrades, feature limits and usage tracking</li>
-</ul>
+<div align="center">
+  <a href="https://leetcode.com/u/sachin00012/"><img src="https://leetcard.jacoblin.cool/sachin00012?theme=dark&font=Fira%20Code&border=0" alt="LeetCode stats card" /></a>
+</div>
 
-<p align="center">
-  <!-- Replace with the exact repository URL if the name differs -->
-  <a href="https://github.com/sachin-120/TenantSphere"><img src="https://img.shields.io/badge/View_Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="Repository" /></a>
-</p>
+**Topics practiced:** Arrays, Strings, Hashing, Binary Search, Sliding Window, Two Pointers, Prefix Sum, Linked Lists and other core data structures and algorithms.
 
-</td>
-</tr>
-</table>
+---
 
-<h3 align="center">In Progress</h3>
+## Internship Experience
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-**Task Management REST API**
-
-<img src="https://img.shields.io/badge/Java-1F6FEB?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=161B22" alt="Java" />
-<img src="https://img.shields.io/badge/Spring_Boot-1F6FEB?style=for-the-badge&logo=springboot&logoColor=white&labelColor=161B22" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/Spring_Data_JPA-1F6FEB?style=for-the-badge&logo=spring&logoColor=white&labelColor=161B22" alt="Spring Data JPA" />
-
-A Spring Boot REST API for managing tasks, with DTOs and mappers, exception handling, and task status and priority enums.
-
-</td>
-<td width="50%" valign="top">
-
-**Library Management System**
-
-<img src="https://img.shields.io/badge/Java-1F6FEB?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=161B22" alt="Java" />
-<img src="https://img.shields.io/badge/Spring_Boot-1F6FEB?style=for-the-badge&logo=springboot&logoColor=white&labelColor=161B22" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/Spring_Data_JPA-1F6FEB?style=for-the-badge&logo=spring&logoColor=white&labelColor=161B22" alt="Spring Data JPA" />
-
-A Spring Boot backend modelled around books, authors and categories, with repositories, DTOs, and service and controller layers.
-
-</td>
-</tr>
-</table>
-
-<h3 align="center">Other Projects</h3>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-**Async Weather Dashboard**
-
-<img src="https://img.shields.io/badge/JavaScript-1F6FEB?style=for-the-badge&logo=javascript&logoColor=white&labelColor=161B22" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-1F6FEB?style=for-the-badge&logo=html5&logoColor=white&labelColor=161B22" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1F6FEB?style=for-the-badge&logo=css3&logoColor=white&labelColor=161B22" alt="CSS3" />
-
-Consumes a third-party REST API using Fetch and Async/Await, with structured error handling and a responsive layout.
-
-</td>
-<td width="50%" valign="top">
-
-**Task Manager Application**
-
-<img src="https://img.shields.io/badge/JavaScript-1F6FEB?style=for-the-badge&logo=javascript&logoColor=white&labelColor=161B22" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-1F6FEB?style=for-the-badge&logo=html5&logoColor=white&labelColor=161B22" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1F6FEB?style=for-the-badge&logo=css3&logoColor=white&labelColor=161B22" alt="CSS3" />
-
-Browser-based task manager with full CRUD operations, LocalStorage persistence and dynamic DOM updates.
-
-</td>
-</tr>
-</table>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=70&section=footer" alt="" />
-
-<h2 align="center">Problem Solving &amp; DSA</h2>
-
-<p align="center">
-  <a href="https://leetcode.com/u/sachin00012"><img src="https://img.shields.io/badge/LeetCode-250%2B_Solved-1F6FEB?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=161B22" alt="LeetCode 250+" /></a>
-  <a href="https://www.geeksforgeeks.org/profile/ssachiqxac"><img src="https://img.shields.io/badge/GeeksforGeeks-200%2B_Solved-58A6FF?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=161B22" alt="GeeksforGeeks 200+" /></a>
-</p>
-
-<p align="center">
-Arrays &middot; Strings &middot; Hashing &middot; Binary Search &middot; Sliding Window &middot; Two Pointers &middot; Prefix Sum &middot; Linked Lists<br>
-Practised primarily in Java.
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=70&section=footer" alt="" />
-
-<h2 align="center">Experience</h2>
-
-<table align="center">
-<tr>
-<th>Period</th>
-<th>Role</th>
-<th>Organisation</th>
-</tr>
-<tr>
-<td>Jun 2026 &ndash; Jul 2026</td>
-<td><b>Java Developer Intern</b></td>
-<td>CodeAlpha (Remote)</td>
-</tr>
-<tr>
-<td>Jun 2026 &ndash; Jul 2026</td>
-<td>Cyber Security Intern</td>
-<td>Prodigy InfoTech (Remote)</td>
-</tr>
-<tr>
-<td>Jan 2026 &ndash; Jun 2026</td>
-<td>Lab Technical Support Intern</td>
-<td>System Support Cell, Parul University</td>
-</tr>
-</table>
-
-<details open>
-<summary><b>Java Developer Intern &middot; CodeAlpha (Remote)</b></summary>
-<br>
-<ul>
-  <li>Developed 3+ Java applications applying OOP principles (encapsulation, inheritance, polymorphism), each delivered within defined project timelines</li>
-  <li>Solved 15+ algorithmic programming challenges to strengthen data structures and Java fundamentals</li>
-  <li>Acted on mentor feedback to improve code quality and software design practices</li>
-</ul>
-</details>
-
-<details>
-<summary><b>Cyber Security Intern &middot; Prodigy InfoTech (Remote)</b></summary>
-<br>
-<ul>
-  <li>Built Python-based security tools applying secure coding principles and classical cryptographic techniques, including a Caesar Cipher encryption/decryption application</li>
-  <li>Maintained structured Git repositories with consistent commit history across all deliverables</li>
-  <li>Wrote technical documentation and project reports for technical and non-technical audiences</li>
-</ul>
-</details>
-
-<details>
-<summary><b>Lab Technical Support Intern &middot; System Support Cell, Parul University</b></summary>
-<br>
-<ul>
-  <li>Diagnosed and resolved hardware, software and peripheral issues across 50+ workstations in 5 computer laboratories</li>
-  <li>Installed and configured operating systems and applications for 200+ end users using standardized imaging workflows</li>
-  <li>Performed weekly updates, hardware diagnostics and network troubleshooting to keep lab operations running</li>
-</ul>
-</details>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=70&section=footer" alt="" />
-
-<h2 align="center">Education</h2>
-
-<table align="center">
-<tr>
-<th>Degree</th>
-<th>Institution</th>
-<th>Score</th>
-<th>Year</th>
-</tr>
-<tr>
-<td><b>B.Tech, Computer Science Engineering (Cyber Security)</b></td>
-<td>Parul University, Vadodara</td>
-<td>CGPA 8.05 / 10.0 (through Sem 4)</td>
-<td>Expected 2028</td>
-</tr>
-<tr>
-<td>HSC, Science (PCM)</td>
-<td>Maharashtra State Board</td>
-<td>76.17%</td>
-<td>Feb 2024</td>
-</tr>
-<tr>
-<td>SSC</td>
-<td>Maharashtra State Board</td>
-<td>82.00%</td>
-<td>Mar 2022</td>
-</tr>
-</table>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=70&section=footer" alt="" />
-
-<h2 align="center">GitHub Statistics</h2>
-
-<table align="center">
-<tr>
-<td align="center" width="50%" valign="middle">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=sachin-120&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=E6EDF3&rank_icon=github&card_width=400&line_height=30&include_all_commits=true" alt="GitHub stats" />
-</td>
-<td align="center" width="50%" valign="middle">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-120&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3&card_width=400&langs_count=6" alt="Top languages" />
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img width="85%" src="https://streak-stats.demolab.com?user=sachin-120&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E&stroke=30363D" alt="Contribution streak" />
-</p>
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph - Night Rainbow" />
-</p>
-
-<p align="center">
-  <img width="90%" src="https://ghchart.rshah.org/1F6FEB/sachin-120" alt="Contribution heatmap" />
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=70&section=footer" alt="" />
-
-<h2 align="center">Certifications</h2>
-
-<table align="center">
-<tr>
-<th>Credential</th>
-<th>Issuer</th>
-<th>Date</th>
-</tr>
-<tr>
-<td>Java Developer Internship Certificate</td>
-<td>CodeAlpha</td>
-<td>Jun &ndash; Jul 2026</td>
-</tr>
-<tr>
-<td>Cyber Security Internship Certificate</td>
-<td>Prodigy InfoTech</td>
-<td>Jun &ndash; Jul 2026</td>
-</tr>
-<tr>
-<td>Lab Technical Support Certificate</td>
-<td>System Support Cell, Parul University</td>
-<td>Jan &ndash; Jun 2026</td>
-</tr>
-</table>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=70&section=footer" alt="" />
-
-<h2 align="center">Security Background</h2>
-
-<table align="center">
-<tr>
-<td width="60%" valign="top">
-
-Cybersecurity is part of my academic background. I've worked with cryptography basics, network fundamentals, web application security and threat/IOC analysis, and I apply that knowledge to write more secure code.
-
-</td>
-<td width="40%" valign="top">
-
-**Caesar Cipher Encryption Tool**
-
-<img src="https://img.shields.io/badge/Python-1F6FEB?style=for-the-badge&logo=python&logoColor=white&labelColor=161B22" alt="Python" />
-
-CLI encryption and decryption with configurable shift values, built during my Prodigy InfoTech internship.
-
-</td>
-</tr>
-</table>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=70&section=footer" alt="" />
-
-<h2 align="center">Connect With Me</h2>
-
-<p align="center">
-  <a href="mailto:sharmasachin0180@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" /></a>
-  &nbsp;
-  <a href="https://linkedin.com/in/sachin-santosh-sharma-b93345404"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="https://github.com/sachin-120"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
-</p>
-
-<p align="center">
-  <a href="mailto:sharmasachin0180@gmail.com"><img src="https://img.shields.io/badge/sharmasachin0180@gmail.com-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22" alt="Email address" /></a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=600&lines=Always+learning.+Always+building." alt="Closing line" />
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=160&section=footer&animation=twinkling" alt="Footer" />
+**Java Developer Intern** · CodeAlpha, Remote · *Jun 2025 – Jul 2025*
+- Developed 3+ Java applications applying OOP principles (encapsulation, inheritance, polymorphism), each delivered within defined project timelines.
+- Solved 15+ algorithmic programming challenges in Java as part of the internship tasks.
+
+**Lab Technical Support Intern** · System Support Cell, Parul University, Vadodara · *Jan 2025 – Jun 2025*
+- Diagnosed and resolved hardware, software and peripheral issues across 50+ workstations in 5 computer laboratories, including weekly updates, hardware diagnostics and network troubleshooting.
+- Installed and configured operating systems and applications for 200+ end users using standardized imaging workflows.
+
+---
+
+## Certifications
+
+- **Java Developer Internship Certificate**, CodeAlpha · Jul 2025
+- **Lab Technical Support Certificate**, System Support Cell, Parul University · Jun 2025
+
+---
+
+## Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sachin-santosh-sharma-b93345404"><img src="https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/sachin-120"><img src="https://img.shields.io/badge/GitHub-Follow-06b6d4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://leetcode.com/u/sachin00012/"><img src="https://img.shields.io/badge/LeetCode-Profile-1a1b26?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/ssachiqxac"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-1a1b26?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" alt="GeeksforGeeks" /></a>
+  <a href="mailto:sharmasachin0180@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e" alt="Email" /></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sachin-120&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:7c3aed,100:1a1b26&height=120&section=footer" alt="" width="100%" />
