@@ -1,13 +1,11 @@
+
 name: Profile 3D Contrib
 
 on:
-  # Daily at 18:00 UTC
   schedule:
     - cron: "0 18 * * *"
-  # Manual trigger from the Actions tab
   workflow_dispatch:
 
-# Required so the workflow can commit the generated SVGs
 permissions:
   contents: write
 
@@ -15,12 +13,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: Generate 3D contribution graphs
-    steps:
-      - uses: actions/checkout@v4
 
-      # Check https://github.com/yoshi389111/github-profile-3d-contrib/releases
-      # and bump the version below if a newer release exists.
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Generate 3D contribution graphs
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
@@ -29,6 +28,12 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add -A profile-3d-contrib
-          git commit -m "chore: update 3D contribution graphs" || exit 0
-          git push
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update 3D contribution graphs"
+            git push
+          fi
