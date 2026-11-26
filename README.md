@@ -271,35 +271,43 @@ Computer Science Engineering student at **Parul University, Vadodara** with a st
  
 <h2 align="center">Let's Connect</h2>
 
+
+<h2 align="center">Let's Connect</h2>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/sachin-santosh-sharma-b93345404/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
   &nbsp;
   <a href="https://github.com/sachin-120">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://leetcode.com/u/sachin00012/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
   </a>
-</p>
 
-<p align="center">
+  <br><br>
+
   <a href="YOUR_GFG_PROFILE_URL">
-    <img src="https://img.shields.io/badge/GeeksForGeeks-Profile-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" />
+    <img src="https://img.shields.io/badge/GeeksForGeeks-Profile-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
+
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=sachin-120&label=Profile%20Views&color=6C63FF&style=flat-square"/>
 </p>
+
 </div>
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sachin-120&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
-</div>
+</div> -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:7c3aed,100:1a1b26&height=120&section=footer" alt="" width="100%" />
